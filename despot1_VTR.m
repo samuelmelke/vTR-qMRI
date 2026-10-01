@@ -26,14 +26,13 @@ classdef despot1_VTR
 %
 % Derived from despot1.m of the GACELLE toolbox
 % (https://github.com/kschan0214/gacelle):
-%   Kwok-Shing Chan @ MGH, kchan2@mgh.harvard.edu
-%   Date created: 4 January 2024
+%   
 % Variable-TR version:
 %   Samuel Melke Gebremedhin, samuel.gebremedhin@donders.ru.nl
 %   Donders Centre for Cognitive Neuroimaging, Radboud University
 %   Date last modified: 2 September 2026
 %
-% Distributed under the GNU General Public License v3.
+
 
     properties (Constant)
         gyro = 42.57747892;
